@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:math';
 
 import 'package:flutter/material.dart';
-import 'package:sensors/sensors.dart';
+import 'package:sensors_plus/sensors_plus.dart';
 
 class ShakeDetector {
   final VoidCallback onPhoneShake;
